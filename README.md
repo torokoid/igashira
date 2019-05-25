@@ -75,7 +75,7 @@ screen and (orientation: landscape) {
 </p>
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <a href="20190525_001.JPG" data-lightbox="abc"><img src="20190525_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190525_002.JPG" data-lightbox="abc"><img src="20190525_002.JPG" alt="サンプル画像" width="900" /></a>
